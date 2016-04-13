@@ -7,9 +7,6 @@
 # Configuration:
 #   none
 #
-# Commands:
-#   hubot who is that pokemon?
-#
 # Author:
 #   Eduardo Guanilo (eduardo.guanilo@complex.com)
 #   Hector Leiva (hector.leiva@complex.com)
