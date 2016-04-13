@@ -35,6 +35,6 @@
   },
   "main": "index.coffee",
   "scripts": {
-    "test": "grunt test"
+    "test": "node_modules/.bin/grunt test"
   }
 }
